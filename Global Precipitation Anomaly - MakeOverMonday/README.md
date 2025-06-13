@@ -1,2 +1,3 @@
-![Dashboard]("Global Precipitation Anomaly - Dashboard.png")
+![Dashboard](Global%20Precipitation%20Anomaly%20-%20Dashboard.png)
+
 
